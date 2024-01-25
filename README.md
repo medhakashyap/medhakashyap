@@ -12,3 +12,5 @@
 - ⚡ Fun fact: I enjoy singing
 
 </div>
+
+![Medha's GitHub stats](https://github-readme-stats.vercel.app/api?username=medhakashyap&show_icons=true&theme=transparent)
