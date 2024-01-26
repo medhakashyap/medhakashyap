@@ -39,5 +39,3 @@ Hi, My name is Medha Kashyap
 ### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=medhakashyap&icon=9&color=10)](https://visitcount.itsvg.in)
