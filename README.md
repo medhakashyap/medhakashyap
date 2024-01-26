@@ -6,7 +6,7 @@ Hi, I'm Medha Kashyap
 * 🌱 My current semester courses: DBMS, Analysis and Design of Algorithms, Practical Bioinformatics, ODEs/PDEs, and Introduction to Digital Ethnography.
 * 🔭 I’m currently working on an E-commerce website using concepts of DBMS
 * 🤔 Areas of Interest: Software Development, Data Science, Machine Learning
-* 🖥️  See my portfolio at [MyPortfolio](http://https://65875aa2215c8cc86a6c9c9c--ornate-zuccutto-56e96c.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://medha-kashyap-iiit-delhi-portfolio.netlify.app/)
 * ✉️  You can contact me at [medha22292@iiitd.ac.in](mailto:medha22292@iiitd.ac.in)
 * ⚡ Fun fact: I enjoy singing
 
