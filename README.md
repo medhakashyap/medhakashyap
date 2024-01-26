@@ -1,4 +1,4 @@
-Hi, My name is Medha Kashyap
+Hi, I'm Medha Kashyap
 ==============================
 
 * 🏫 BTech Computer Science and Engineering student at IIIT Delhi
@@ -30,12 +30,10 @@ Hi, My name is Medha Kashyap
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=medhakashyap&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=medhakashyap&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
