@@ -1,6 +1,8 @@
 Hi, I'm Medha Kashyap
 ==============================
 
+* Pre-Finalist Google Girl Hackathon'24
+
 * 🏫 BTech Computer Science and Engineering student at IIIT Delhi
 * 📍 Based in Delhi, India
 * 🌱 My current semester courses: DBMS, Analysis and Design of Algorithms, Practical Bioinformatics, ODEs/PDEs, and Introduction to Digital Ethnography.
