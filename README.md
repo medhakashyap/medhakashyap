@@ -1,16 +1,13 @@
 Hi, I'm Medha Kashyap
 ==============================
 
-* Pre-Finalist Google Girl Hackathon'24
-
-* 🏫 BTech Computer Science and Engineering student at IIIT Delhi
-* 📍 Based in Delhi, India
-* 🌱 My current semester courses: DBMS, Analysis and Design of Algorithms, Practical Bioinformatics, ODEs/PDEs, and Introduction to Digital Ethnography.
-* 🔭 I’m currently working on an E-commerce website using concepts of DBMS
-* 🤔 Areas of Interest: Software Development, Data Science, Machine Learning
-* 🖥️  See my portfolio at [MyPortfolio](https://medha-kashyap-updated-portfolio.netlify.app/)
-* ✉️  You can contact me at [medha22292@iiitd.ac.in](mailto:medha22292@iiitd.ac.in)
-* ⚡ Fun fact: I enjoy singing
+* Pre-Finalist Google Girl Hackathon'24 (Among the top 1% applicants from a pool of 26,000 candidates)
+* Contributor @ GirlScript Summer of Code'24
+* BTech CSE @ IIIT Delhi'26
+* Areas of Interest: Software Development, Data Science, Machine Learning
+* See my portfolio at [MyPortfolio](https://medha-kashyap-updated-portfolio.netlify.app/)
+* You can contact me at [medha22292@iiitd.ac.in](mailto:medha22292@iiitd.ac.in)
+* Fun fact: I enjoy singing
 
 ### Skills
 
