@@ -5,7 +5,7 @@ Hi, I'm Medha Kashyap
 * Contributor @ GirlScript Summer of Code'24
 * BTech CSE @ IIIT Delhi'26
 * Areas of Interest: Software Development, Data Science, Machine Learning
-* See my portfolio at [MyPortfolio](https://medha-kashyap-portfolio.netlify.app/)
+* See my portfolio at [MyPortfolio](https://medha-portfolio-offcampus.netlify.app/)
 * You can contact me at [medha22292@iiitd.ac.in](mailto:medha22292@iiitd.ac.in)
 * Fun fact: I enjoy singing
 
