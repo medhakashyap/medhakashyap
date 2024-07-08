@@ -1,6 +1,7 @@
 Hi, I'm Medha Kashyap
 ==============================
 
+* Goldman Sachs Women Engineering Insight Series Fellow 2024
 * Pre-Finalist Google Girl Hackathon'24 (Among the top 1% applicants from a pool of 26,000 candidates)
 * Contributor @ GirlScript Summer of Code'24
 * BTech CSE @ IIIT Delhi'26
